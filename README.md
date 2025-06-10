@@ -380,20 +380,6 @@ class SentimentAnalyzer:
 - **Engagement** con recomendaciones (clicks/follows)
 - **Frecuencia de uso** de la plataforma
 
-## 🚀 Roadmap Futuro
-
-### v1.1 (Próximos 3 meses)
-- [ ] Notificaciones por email automáticas
-- [ ] Más tipos de gráficos y visualizaciones  
-- [ ] Export de datos personales
-- [ ] Modo offline básico
-
-### v1.2 (6 meses)
-- [ ] App móvil con React Native
-- [ ] Integración con Google Calendar
-- [ ] Chatbot básico para recomendaciones
-- [ ] Análisis de tendencias más avanzado
-
 ## 🔧 Variables de Entorno
 
 ```bash
@@ -496,7 +482,6 @@ docker-compose -f docker-compose.prod.yml up -d  # Deploy producción
 
 - 🌐 **Portfolio**: [tu-portfolio.com](https://tu-portfolio.com)
 - 💼 **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-- 🐙 **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
 - 📧 **Email**: tu.email@ejemplo.com
 
 ---
